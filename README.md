@@ -8,7 +8,7 @@ vamos guardar o seu contato para vagas disponíveis aqui na UAU!
 # Especificações
 
 ## Iniciar
-Acesse o documento [clicando aqui](https://s3.amazonaws.com/static.uaubox.com.br/pspublico/Processo+Seletivo+Aberto+-+2021_2.pdf) para participar do nosso desafio.
+Acesse o documento [clicando aqui](https://s3.amazonaws.com/static.uaubox.com.br/pspublico/Desafio+Tech+UAU+-+2021_2.pdf) para participar do nosso desafio.
 
 ## Serviços
 *Você deverá escolher o método correto para cada endpoint seguindo as rotas especificadas*<br />
