@@ -34,7 +34,7 @@ Acesse o documento [clicando aqui](https://s3.amazonaws.com/static.uaubox.com.br
     - phone
     - address
 
-### Assinatura
+### Assinatura (**OPCIONAL**)
 - Endpoints
   - [/]     Nova
   - [/]     Listar Todas
@@ -75,7 +75,7 @@ Acesse o formulário [clicando aqui](https://forms.gle/C2RueSNjnoMthCTX8)
 Todos podem participar, ao contrário de outros processos seletivos neste buscamos um talento, independente de seu currículo.
 
 ### Data Limite
-O fim do desafio ocorrerá no dia 01/12/2021, mas quanto antes enviar melhor!
+O fim do desafio ocorrerá no dia 01/01/2022, mas quanto antes enviar melhor!
 
 ### Posso ser selecionado para uma vaga na UAUBox?
 Sim, enviando o seu desafio iremos analisar o seu perfil e caso faça sentido iremos entrar em contato.
